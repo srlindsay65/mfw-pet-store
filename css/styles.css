@@ -46,3 +46,32 @@ h1 {
   font-weight: 300;
   letter-spacing: 2px;
 }
+
+.prod-pic {
+  width: 250px;
+}
+
+h5 {
+  color: #5bc0de;
+}
+
+.services {
+  text-align: center;
+}
+
+.footer {
+  background-color: #000;
+}
+
+.footer-logo {
+  width: 100px;
+}
+
+.footer-text {
+  color: #fff;
+  margin-top: 10px;
+}
+
+.fab {
+  color: #fff
+}
