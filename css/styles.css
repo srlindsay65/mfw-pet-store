@@ -47,9 +47,9 @@ h1 {
   letter-spacing: 2px;
 }
 
-.prod-pic {
+/* .prod-pic {
   width: 250px;
-}
+} */
 
 h5 {
   color: #5bc0de;
@@ -72,6 +72,6 @@ h5 {
   margin-top: 10px;
 }
 
-.fab {
+.fa {
   color: #fff
 }
